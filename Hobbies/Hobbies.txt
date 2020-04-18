@@ -1,0 +1,116 @@
+<html>
+<head>
+</head>
+
+
+<body BACKGROUND="images (7).jpeg">
+
+<body>
+
+<font color="black">
+
+<H1>
+<p align=center><B>Estooooooooooooos son algunos ejemplos de mis hobbies</B></p></br>
+</H1>
+
+
+<p align=center><img src="Jugando-Xbox-One.jpg" width="500" height="400" /></p>
+<H3>
+<p align=center>Unos de mis pasatiempos es jugar videojuegos, especialmente en Xbox  y mi franquicia favorita Halo :D, es algo que me gusta hacer y es algo que hago muy seguigo y a altas horas de la noche</p>
+</H3>
+
+<p align=center><img src="fotografia.png" width="500" height="400" /></p>
+
+<H3>
+<p align=center>Algunas cosas que me gusta hacer es tomar fotografías, aunque no tengo una cámara utilizo mi teléfono y algunas personas dicen que me quedan bonitas. :3</p>
+</H3>
+
+
+<p align=center><img src="juegos-de-cartas-divertidos-large.jpg" width="500" height="400" /></p>
+
+<H3>
+<p align=center>Aunque la mayoria de juegos no los sé me gusta jugar, juego varias veces y apuesto y es algo que me gusta mucho hacer.</p>
+</H3>
+
+
+<p align=center><img src="spotifyauriculares.jpg" width="500" height="400" /></p>
+
+<H3>
+<p align=center>La música es algo genial y es algo que me gusta mucho haré un listado de mis canciones favoritas
+<li>
+I´m Still Standing-Elton John</br></li>
+<li>Clay-Grace VanderWaal</br></li>
+<li>I´m Gonna Love Me Again-Elton John y Taron Egerton</br></li>
+<li>Hideaway-Grace VanderWaal</br></li>
+<li>Saturday Nights Alright For Fighting-Elton John</li>
+<li>I don´t Like You-Grace VanderWaal</li>
+<li>Rocket Man-Elton John</li>
+<li>Waste My Time-Grace VanderWaal</li>
+<li>Your Song-Elton John</li>
+<li>Ur So Beautiful-Grace VanderWaal</li>
+<li>I Want Love-Elton John</li>
+<li>Beautiful Thing-Grace VanderWaal</li>
+<li>Moonlight-Grace VanderWaal</li>
+<li>The bitch Is Back-Elton John</li>
+<li>Gone Gone Gone-Phillip Phillips</li>
+<li>Hurt-Johnny Cash</li>
+<li>Can´t Help< Falling In Love-Elvis Presley</li>
+<li>Centuries-Fall Out Boy</li>
+<li>House of Gold-Twenty One Pilots</li>
+</li>
+
+<p align=center><iframe width="560" height="315" src="https://www.youtube.com/embed/Hs5fP7G8gBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p></br>
+
+
+<p align=center><iframe width="560" height="315" src="https://www.youtube.com/embed/9TSEzQTNQkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p></br>
+
+<p align=center><iframe width="560" height="315" src="https://www.youtube.com/embed/YbUJ7oiWYBA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p></br>
+
+<p align=center><iframe width="560" height="315" src="https://www.youtube.com/embed/0LtusBN3ST0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p></br>
+
+<p align=center><iframe width="560" height="315" src="https://www.youtube.com/embed/DtVBCG6ThDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></br>
+
+<p align=center><iframe width="560" height="315" src="https://www.youtube.com/embed/djbYnvpvWso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p></br>
+
+
+
+
+</p> ¿Qué canción es mejor?
+<form action="mailto:lingupingumaster1117@gmail.com" method="post" enctype="text/plain">
+<input type=radio>I´m Still Standing</br>
+<input type=radio>Clay</br>
+<input type=submit value=Mandar></br>
+</form>
+</H3>
+
+</font>
+
+
+
+
+
+
+
+
+<ul>
+    <table align="center">
+        <tr> 
+
+            
+            <th style="color: black">Inicio</th>
+        </tr>
+        <tr>
+            
+            
+            <td align="center"><a href="../Proyecto.html"</a><button>Ir</button></td>
+
+        </tr>
+    </table>
+</ul>
+
+
+
+
+</body>
+
+</html>
